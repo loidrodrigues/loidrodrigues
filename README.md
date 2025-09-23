@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Loid-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Loid-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Loid-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Loid-React" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Loid-React" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >
   <img align="center" alt="Loid-React-native" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
    <img align="center" alt="Loid-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

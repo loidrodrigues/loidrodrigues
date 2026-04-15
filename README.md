@@ -1,7 +1,7 @@
 ## Oiii, eu sou o Loid Padre 👋, Desenvolvedor de Software.
 <div style="display: inline_block"><br>
 
-      <img align="center" alt="Loid-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Loid-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Loid-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Loid-React" height="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Loid-React" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >
